@@ -4,7 +4,7 @@
 
 ## Packages
 
-- [osu!](https://github.com/auguwu/packages/tree/master/pkg/osu) **~** osu!api Wrapper
+- [pippi](https://github.com/auguwu/packages/tree/master/pkg/pippi) **~** osu!api Wrapper
 - [azurlane](https://github.com/auguwu/packages/tree/master/pkg/azurlane) **~** Azur Lane API wrapper
 - [ksoft](https://github.com/auguwu/packages/tree/master/pkg/ksoft) **~** [KSoft.Si](https://ksoft.si) API wrapper
 - [ms](https://github.com/auguwu/packages/tree/master/pkg/ms) **~** Modified instance of the [`ms`](https://github.com/zeit/ms) NPM module
@@ -15,9 +15,13 @@
 ## Installation
 
 ```sh
-# Yarn (example: osu)
-$ yarn add @augu/osu
+# Yarn (example: pippi)
+$ yarn add @augu/pippi
 
 # NPM (example: portland)
 $ yarn add @augu/portland
 ```
+
+## Documentation
+
+> You can view the documentation [here](https://docs.augu.me)
