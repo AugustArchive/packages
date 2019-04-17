@@ -1,0 +1,10 @@
+*.lock
+*.log
+node_modules/
+pkg/portland/node_modules/
+pkg/pippi/node_modules/
+pkg/azurlane/node_modules/
+pkg/ksoft/node_modules/
+pkg/ms/node_modules/
+pkg/akashi/node_modules/
+pkg/yuudachi/node_modules/
