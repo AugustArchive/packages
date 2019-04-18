@@ -1,0 +1,14 @@
+{
+    "npmClient": "yarn",
+    "useWorkspaces": true,
+    "version": "8.1.0",
+    "packages": ["pkg/*"],
+    "command": {
+        "version": { "exact": true },
+        "publish": {
+            "npmClient": "npm",
+            "allowBranch": ["master"],
+            "registry": "https://registry.npmjs.org"
+        }
+    }
+}
