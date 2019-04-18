@@ -24,6 +24,18 @@ $ yarn add @augu/pippi
 $ yarn add @augu/portland
 ```
 
+## Contributing
+
+> Thanks for contributing to this sortment of packages! Keep in mind, it has some rules and expectations:
+
+### Exceptations
+
+- All commits must start with this: `[package]: <commit>`
+  - `Kongou: Updated KongouRequest#json`
+- All headers must start with: `[package]: commit header`
+  - `Kongou: Updated Typings`
+- For the love of god, please use the template
+
 ## Documentation
 
 > You can view the documentation [here](https://docs.augu.me)
