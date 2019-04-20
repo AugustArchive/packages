@@ -11,8 +11,7 @@
 - [portland](https://github.com/auguwu/packages/tree/master/pkg/portland) **~** Modified instance of the [`kirbe`](https://github.com/PassTheWessel/kirbe) NPM module
 - [akashi](https://github.com/auguwu/packages/tree/master/pkg/akashi) **~** A customizable logger with levels and methods
 - [yuudachi](https://github.com/auguwu/packages/tree/master/pkg/yuudachi) **~** Modified instance of the [`colorette`](https://github.com) NPM module
-- [kirishima](https://github.com/auguwu/packages/tree/master/pkg/kirishima) **~** Modified instance of the [`wikia`](https://github.com/pollen5/wikia) module
-- [kongou](https://github.com/auguwu/packages/tree/master/pkg/kongou) **~** Modified instance of the [`wumpfetch`](https://github.com/PassTheWessel/wumpfetch) module
+- [kongou](https://github.com/auguwu/packages/tree/master/pkg/kongou) **~** Modified instance of the [`wikia`](https://github.com/pollen5/wikia) module
 
 ## Installation
 
@@ -31,7 +30,7 @@ $ yarn add @augu/portland
 ### Exceptations
 
 - All commits must start with this: `[package]: <commit>`
-  - `Kongou: Updated KongouRequest#json`
+  - `Kongou: Updated Kongou$fetchArticle`
 - All headers must start with: `[package]: commit header`
   - `Kongou: Updated Typings`
 - For the love of god, please use the template
