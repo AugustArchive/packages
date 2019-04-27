@@ -1,0 +1,14 @@
+{
+    "name": "@augu/akashi",
+    "description": "Logger utility made in Node.JS",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "types": "index.d.ts",
+    "devDependencies": {
+        "docma": "3.2.2"
+    },
+    "scripts": {
+        "test": "cd test && node test.akashi.js",
+        "docs": "node docs.js"
+    }
+}

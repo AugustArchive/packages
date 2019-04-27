@@ -1,0 +1,7 @@
+node_modules/
+test/
+docs.js
+LICENSE
+README.md
+*.log
+*.lock

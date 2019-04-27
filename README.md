@@ -1,6 +1,6 @@
-# @augu/* Packages
+# @augu Scope Packages
 
-> :package: Packages maintained by me using the @augu NPM org scope. (Used with [Lerna](https://github.com/lernajs/lerna)]!)
+> :package: Packages maintained by me using the @augu NPM org scope. (Used with [Lerna](https://github.com/lerna/lerna)]!)
 
 ## Packages
 
